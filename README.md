@@ -24,7 +24,7 @@ This repository contains a simulation setup made in Isaac Sim, that can be used 
 ### [System Setup Repository](https://github.com/AAU-Space-Robotics/aau-rover)
 This repository contains dockerfiles for building and running the system.
 
-### [Hardware Repository](https://github.com/AAU-Space-Robotics/hardware)
+### [Hardware Repository](https://github.com/AAU-Space-Robotics/mechanical)
 This repository contains the CADs and technical drawings related to the rover
 
 ### [Electronics Repository](https://github.com/AAU-Space-Robotics/electronics)
